@@ -1,0 +1,21 @@
+{
+    "name": "lelouch-s-theme",
+    "displayName": "Lelouch's Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lelouch's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lelouch's Theme-color-theme.json"
+            }
+        ]
+    }
+}
